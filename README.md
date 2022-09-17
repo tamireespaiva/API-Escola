@@ -4,8 +4,6 @@
 
 Projeto construído para o cadastro em um banco de dados de uma escola.
 
-🔗[Clique aqui para acessar](https://tamireespaiva.github.io/NLW-Esportes/)
-
 ## 🎮 Tecnologias 
 
 - Django Rest
